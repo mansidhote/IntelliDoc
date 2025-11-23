@@ -1,5 +1,6 @@
 # IntelliDoc
 IntelliDoc is an API designed to generate documentation from a GitHub repository URL. It leverages the Gemini language model and Langchain to analyze the codebase and produce structured outputs.
+![Screenshot](frontend/src/assets/Intellidoc_interface.png)
 
 **Key Features:**
 *   **Documentation Generation:** Automatically generates comprehensive documentation for a given GitHub repository.
